@@ -86,7 +86,6 @@ public class ContactAdapter extends RecyclerView.Adapter<ContactAdapter.ViewHold
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         TextView txtNama, txtEmail, txtTgllahir, txtTelpon, txtJk;
-        ImageView imgFoto;
         CardView cardView;
         Button btnDelete;
 
